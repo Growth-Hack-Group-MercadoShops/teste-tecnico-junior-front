@@ -25,7 +25,7 @@
 - O link do repositório deve ser enviado pelo email rh@digitalgrowth.marketing e vitor.a@growthackgroup.com
 - No repositório deverá conter todo o código desenvolvido.
 
-### Referência: https://www.aoreidoarmarinho.com.br/
+### Referência: https://www.aoreidoarmarinho.com.br/?skipWall=true
 ![image](https://github.com/user-attachments/assets/e8d2c69a-a295-402f-83e6-9af2444e10a6)
 ![image](https://github.com/user-attachments/assets/efe097a1-733f-4462-8058-31f3ac5df82b)
 
